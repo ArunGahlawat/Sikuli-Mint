@@ -1,0 +1,7 @@
+BROWSER = "gc"
+HOME_URL = "https://www.mint.com/"
+TXN_PARSE_01_CSV = "TestData/parse_level_01.csv"
+TXN_SOURCE_CSV = "TestData/Txns_To_Be_Added.csv"
+TXN_FINAL_CSV = "TestData/Final.csv"
+TXN_ADDED_CSV = "TestData/Added_Txns.csv"
+UNPARSED_CSV_PAYTM = "TestData/Unparsed.csv"
